@@ -9,3 +9,7 @@ Reading:
 [Electronic Music and Sound Design Vol 1&2](https://virtual-sound.com/)
 
 [A Computer Music Turorial](https://mitpress.mit.edu/books/computer-music-tutorial)
+
+[The Audio Programming Book](https://mitpress.mit.edu/books/audio-programming-book)
+
+[Designing Sound](https://mitpress.mit.edu/books/designing-sound)
