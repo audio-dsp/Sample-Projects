@@ -17,3 +17,7 @@ Reading:
 [Musimathics](https://mitpress.mit.edu/books/musimathics)
 
 [Designing Software Sythesizer Plugins in C++](http://www.willpirkle.com/about/books/)
+
+[The Supercollider Book](https://mitpress.mit.edu/books/supercollider-book)
+
+[The Csound Book](https://mitpress.mit.edu/books/csound-book)
