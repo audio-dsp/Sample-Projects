@@ -26,4 +26,6 @@ Reading:
 
 [Wiki of the Center for Computer Assisted Research in the Humanities at Stanford University ](http://wiki.ccarh.org/wiki/Main_Page)
 
+[Computer Music Journal](https://www.mitpressjournals.org/cmj) For Scholars and University Alumni
+
 
