@@ -15,3 +15,5 @@ Reading:
 [Designing Sound](https://mitpress.mit.edu/books/designing-sound)
 
 [Musimathics](https://mitpress.mit.edu/books/musimathics)
+
+[Designing Software Sythesizer Plugins in C++](http://www.willpirkle.com/about/books/)
