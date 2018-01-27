@@ -13,3 +13,5 @@ Reading:
 [The Audio Programming Book](https://mitpress.mit.edu/books/audio-programming-book)
 
 [Designing Sound](https://mitpress.mit.edu/books/designing-sound)
+
+[Musimathics](https://mitpress.mit.edu/books/musimathics)
