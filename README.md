@@ -24,4 +24,6 @@ Reading:
 
 [The Csound Book](https://mitpress.mit.edu/books/csound-book)
 
+[Wiki of the Center for Computer Assisted Research in the Humanities at Stanford University ](http://wiki.ccarh.org/wiki/Main_Page)
+
 
