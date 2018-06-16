@@ -22,6 +22,8 @@ Reading:
 
 [Designing Software Sythesizer Plugins in C++](http://www.willpirkle.com/about/books/)
 
+[Designing Audio Effect Plug-ins in C++](http://www.willpirkle.com/about/books/)
+
 [The Supercollider Book](https://mitpress.mit.edu/books/supercollider-book)
 
 [The Csound Book](https://mitpress.mit.edu/books/csound-book)
